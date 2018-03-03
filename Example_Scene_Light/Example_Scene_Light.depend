@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1516236504 source:c:\users\angtr\desktop\example_scene_light\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<cassert>
+	<stdexcept>
+	<iostream>
+	"Shader.h"
+	"Camera.h"
+
+1515770868 c:\users\angtr\desktop\example_scene_light\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1516204380 c:\users\angtr\desktop\example_scene_light\camera.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1520133383 source:c:\users\angtr\desktop\modernopengl\example_scene_light\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<cassert>
+	<stdexcept>
+	<stb_image.h>
+	<iostream>
+	"Shader.h"
+	"Camera.h"
+
+1519612306 c:\users\angtr\desktop\modernopengl\example_scene_light\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1519632626 c:\users\angtr\desktop\modernopengl\example_scene_light\camera.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
